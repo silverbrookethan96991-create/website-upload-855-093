@@ -1,0 +1,15 @@
+{
+  "parsed_movie_count": 2000,
+  "detail_page_count": 2000,
+  "html_file_count": 2013,
+  "baidu_script_in_all_html": true,
+  "detail_pages_with_player": 2000,
+  "category_card_count": 2000,
+  "category_unique_movie_links": 2000,
+  "search_page_card_count": 2000,
+  "archive_page_card_count": 2000,
+  "hls_library_exists": true,
+  "hls_fallback_exists": true,
+  "logo_present": true,
+  "validation_passed": true
+}
